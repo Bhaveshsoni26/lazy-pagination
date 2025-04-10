@@ -1,12 +1,12 @@
 {
-    "name": "your-vendor/lazy-pagination",
+    "name": "bhaveshsoni26/lazy-pagination",
     "description": "A simple and efficient lazy loading pagination component for Laravel applications",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "Bhavesh Soni",
+            "email": "bhavesh.s@applocum.org"
         }
     ],
     "require": {
